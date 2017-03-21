@@ -1,2 +1,2 @@
 def return_four():
-    return 5
+    return 4
